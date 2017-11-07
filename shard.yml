@@ -1,0 +1,13 @@
+name: authd
+version: 0.1.0
+
+authors:
+  - Robin Percy <robin.percy@auth0.com>
+
+targets:
+  authd:
+    main: src/authd.cr
+
+crystal: 0.23.1
+
+license: MIT
