@@ -18,4 +18,4 @@ TODO: Write usage instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Robin Percy - creator, maintainer
+- [[rbnpercy]](https://github.com/rbnpercy) Robin Percy - creator, maintainer
