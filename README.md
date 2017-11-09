@@ -1,7 +1,6 @@
 # authd - WIP
 
-Authd is...
-
+Part \#2 of my Non-Interactive Auth0 Clients series - authd is a Deamonised processing tool built in Crystal, interoperating with C.
 
 
 ## Installation
