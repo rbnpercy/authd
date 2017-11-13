@@ -1,5 +1,6 @@
 require "./authd/*"
 
 module Authd
-  # TODO Put your code here
+  def login()
+  end
 end
